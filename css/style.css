@@ -131,6 +131,10 @@ main{
     z-index: 2;
 }
 
+.heart:hover{
+    color: red;
+}
+
 .discount{
     display: block;
     background-color: #FF0000;
