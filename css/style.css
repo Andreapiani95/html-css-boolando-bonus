@@ -93,6 +93,11 @@ HEADER
     max-width: 400px;    
 }
 
+.fixed{
+    position: fixed;
+    z-index: 99;
+}
+
 /*
 
 MAIN
